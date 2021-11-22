@@ -1,4 +1,5 @@
-#include"election.h"
+#include<stdio.h>
+#include "election.h"
 
 int main(){
     while(1){
